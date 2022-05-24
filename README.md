@@ -1,1 +1,2 @@
-# meu-primeiro-repositorio-etvn
+# meu-primeiro-repositorio
+# Escola De Tecnologia Vida Nova
